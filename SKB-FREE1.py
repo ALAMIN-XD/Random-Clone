@@ -59,7 +59,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-logo =("""\033[0;92m
+logo =("""\033[1;32m
 ╔═══════════════════════════════════════════════════╗
 \ _____ _    _       _______                   
   / ____| |  | |     |__   __|                  
